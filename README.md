@@ -3,3 +3,4 @@
 # As a notice, this is just a private small project
 # Further only run the main.py, and make sure, that the downloaded data and all files are in the same folder. 
 # needed libraries are customtkinter, scikit-learn, pandas, numpy, re, os
+# At least, the menu at the left is not implemented, something for the future to do.
